@@ -1,0 +1,8 @@
+-librodigital.rhcloud.com
+
+@ManagedBean(name="claseBean")
+@RequestScoped
+public class ClaseBean
+
+se esta admiistrando esa clasebean
+@viewscope si quiere tener control total para avrias veces interactue
